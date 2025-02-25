@@ -1,0 +1,14 @@
+Product Laptop added to inventory.
+Product Smartphone added to inventory.
+Product Tablet added to inventory.
+Added 50 units of Laptop. Total stock: 50
+Added 100 units of Smartphone. Total stock: 100
+Added 200 units of Tablet. Total stock: 200
+Stock for Laptop: 50
+Stock for Smartphone: 100
+Sold 20 units of Laptop. Remaining stock: 30
+Sold 50 units of Smartphone. Remaining stock: 50
+Insufficient stock to sell 300 units of Tablet. Available stock: 200
+Stock for Laptop: 30
+Stock for Smartphone: 50
+Stock for Tablet: 200
